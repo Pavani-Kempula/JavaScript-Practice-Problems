@@ -5,9 +5,9 @@ let coinFlip = Math.floor(Math.random() * 10) % 2;
 
 if(HEAD == coinFlip)
 {
-    console.log("HEAD It is");
+    console.log("HEAD it is");
 }
 else
 {
-    console.log("Tail It is");
+    console.log("Tail it is");
 }
